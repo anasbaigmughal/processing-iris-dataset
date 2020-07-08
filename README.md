@@ -11,8 +11,8 @@
 
 5. Now plotted colored 150x150 matrix, plot colors according to values.
 
-![img](Images/colored.png)
-![img](Images/blacknwhite.png)
-![img](Images/normal.png)
-![img](Images/correlation1.png)
-![img](Images/correlation2.png)
+![](Images/colored.png)
+![](Images/blacknwhite.png)
+![](Images/normal.png)
+![](Images/correlation1.png)
+![](Images/correlation2.png)
